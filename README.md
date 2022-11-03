@@ -12,3 +12,4 @@
 8.Rolling cross validation <br />
 9.Time Series Split Cross-Validation <br />
 10.Blocked Cross-Validation <br />
+#### for visualization of all cross validation https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html#sphx-glr-auto-examples-model-selection-plot-cv-indices-py <br />
