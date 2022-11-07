@@ -20,7 +20,7 @@ cross validation will always give acurracy estimates of the models but not actua
 accuracy=number of correct prediction/total number of prediction made  <br />
 or we can use confusion matrix(only for binary classification we can use but not for multiple classes we can not) <br />
 #### the F-score or F-measure  <br />
-is a measure of a test's accuracy. <br />
+is a measure of a test's accuracy. it will give the overall accuracy but not in depth explaination of precision and recall contributed for that have to calculate and separately check <br />
 can be calculated by the following formula: 2 x [(Precision x Recall) / (Precision + Recall)] <br />
 Precision <br />
 It helps us to measure the ability to classify positive samples in the model we can do it for both Y and N that will test how  precisies it is when we call Y and N <br />
