@@ -18,5 +18,4 @@ cross validation will always give acurracy estimates of the models but not actua
 ![image](https://user-images.githubusercontent.com/79073189/200225870-62464510-45af-422e-b010-69ca0a26ae7b.png)
 (for classification type model) <br />
 accuracy=number of correct prediction/total number of prediction made  <br />
-or we can use confusion matrix <br />
- 
+or we can use confusion matrix(only for binary classification we can use but not for multiple classes we can not) <br />
