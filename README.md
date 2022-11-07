@@ -14,5 +14,7 @@
 10.Blocked Cross-Validation <br />
 #### for visualization of all cross validation https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html#sphx-glr-auto-examples-model-selection-plot-cv-indices-py <br />
 NOTE   <br />
-cross validation will always give acurracy estimates of the models but not actual but to know how far accuraccy is from estimates and actual we will use accuracy measures to know   <br />
+cross validation will always give acurracy estimates of the models but not actual but to know how far accuraccy is from estimates and actual we will use accuracy measures to know(for regression type model)   <br />
 ![image](https://user-images.githubusercontent.com/79073189/200225870-62464510-45af-422e-b010-69ca0a26ae7b.png)
+(for classification type model) <br />
+accuracy=number of correct prediction/total number of prediction made  <br />
